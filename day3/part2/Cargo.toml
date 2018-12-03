@@ -1,7 +1,0 @@
-[package]
-name = "day3part2"
-version = "0.1.0"
-authors = ["jccit <38790449+jccit@users.noreply.github.com>"]
-
-[dependencies]
-regex = "1.1.0"
